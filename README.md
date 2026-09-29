@@ -39,3 +39,7 @@ AI-RESUME-ANALYSER/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+## 📸 Application Screenshot
+
+![AI Resume Analyzer](screenshots/Screenshot%202026-09-29%20173104.png)
