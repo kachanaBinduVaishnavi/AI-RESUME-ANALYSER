@@ -93,6 +93,3 @@ The application will open in your web browser.
 - Add user authentication
 - Deploy the application online
 
-## 📸 Application Screenshot
-
-![AI Resume Analyzer](screenshots/Screenshot%202026-09-29%20173104.png)
